@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+        form {
+            width: 400px;
+            height: 300px;
+            border: 2px solid green;
+            background-color: aqua;
+            margin: 50px auto; 
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        label {
+            display: block;
+            font-style: italic;
+            font-size: 20px;
+            color: red;
+            margin: 15px 0 5px 0;
+        }
+
+        input {
+            width: 90%;
+            height: 30px;
+            padding: 5px;
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            width: 100px;
+            height: 35px;
+            font-size: 16px;
+            background-color: green;
+            color: white;
+            margin-left: 120px;
+        }
+ 
