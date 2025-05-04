@@ -3,7 +3,7 @@
 </head>
 <body>
 <link rel="stylesheet" href="CSS/style.css">
-<form action="authentication.jsp">
+<form action="authentication.jsp" method="post">
         <label for="username">UserName</label>
         <input type="text" name="username" placeholder="Enter your name">
 
